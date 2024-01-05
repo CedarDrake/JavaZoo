@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DrakeCedar
+comment0.text=\n\ A\ BoopleSnoot\ is\ Mr.\ Jaffe's\ animal\n\ \n\ @author\ Cedar\ Drake\n\ @version\ 1.0\ 2023-01-5\n
+comment1.params=
+comment1.target=DrakeCedar()
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getDisposition()
+numComments=6
